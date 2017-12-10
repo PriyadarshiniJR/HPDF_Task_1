@@ -6,11 +6,11 @@ The following instructions will help you set up the repository and run it on you
 
 ### Pre-Requisites
 * Install Python 3.x from [here](https://www.python.org/downloads/)
-* Install Flask by typing the command 'pip install flask' on your Command prompt/Terminal
+* Install Flask by typing the command `pip install flask` on Command Prompt (Windows) or Terminal (Linux / Mac).
 
 ### Installation
-* Clone this repository to your local machine using 'git clone <web URL>'
-* Navigate to the local repository using Command Prompt (Windows) or Terminal (Linux / Mac).
+* Clone this repository to your local machine using `git clone web URL`  
+* Navigate to the local repository using Command Prompt or Terminal.
 * Type python main.py and press Enter.
   > Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 * Upon receiving the above message, open a browser of your choice and go to http://127.0.0.1:5000/
