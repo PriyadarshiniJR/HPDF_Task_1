@@ -1,2 +1,3 @@
-# HPDF_Task_1
-Hasura Product Development Fellowship (Python Flask)
+# HPDF Task 1 - Python Flask
+Used for Hasura Product Development Fellowship
+
