@@ -9,7 +9,7 @@ The following instructions will help you set up the repository and run it on you
 * Install Flask by typing the command `pip install flask` on Command Prompt (Windows) or Terminal (Linux / Mac).
 
 ### Installation
-* Clone this repository to your local machine using `git clone web URL`  
+* Clone this repository to your local machine using `git clone`  
 * Navigate to the local repository using Command Prompt or Terminal.
 * Type python main.py and press Enter.
   > Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
